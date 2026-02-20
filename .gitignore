@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# Next.js
+.next/
+
+# Firebase
+firebase-debug.log
+**/firebase.json
+
+# Environment variables
+.env*
+
+# Build artifacts
+out/
+dist/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Dependency directories
+bower_components/
